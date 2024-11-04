@@ -3,3 +3,5 @@ def temperature(temp):
     fahrenheit = temp * 1.8 + 32
     ans = [kelvin, fahrenheit]
     return ans
+
+print(temp(36.6))
