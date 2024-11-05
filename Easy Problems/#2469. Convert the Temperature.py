@@ -4,4 +4,4 @@ def temperature(temp):
     ans = [kelvin, fahrenheit]
     return ans
 
-print(temp(36.6))
+print(temperature(36.6))
